@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hola, soy Ana Sofia </h1>
-<h2 align="center"> Aprendiendo del mundo del desarrollo de sofware en conjunto con las matematicas 👨‍💻</h2> 
+<h2 align="center"> Aprendiendo sobre el mundo del desarrollo de sofware en conjunto con las matematicas 👨‍💻</h2> 
 
 - 🍂 Me gustar estar en continuo aprendizaje
 

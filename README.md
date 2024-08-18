@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hola, soy Sofia Pedroza </h1>
+<h1 align="center">👋 Hola, soy Ana Sofia </h1>
 <h2 align="center"> Aprendiendo del mundo del desarrollo de sofware en conjunto con las matematicas 👨‍💻</h2> 
 
 - 🍂 Me gustar estar en continuo aprendizaje
